@@ -1,4 +1,4 @@
-# projets
-L'ensemble de mes projets personnels
+# My projects
+All of my personal project.
 
-Ce dépôt contient l'ensemble des projets que j'ai réalisés durant mes formations en ligne ou sur mon temps libre en dehors de mon cursus scolaire.
+This repository contains all my personal project realized with online courses on Udemy on my free time in paralel with my school programm.
